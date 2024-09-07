@@ -1,26 +1,26 @@
 {
   "Mail_": {
     "Overview_": {
-      "today_1_": "Send success rate",
-      "today_2_": "Send success",
-      "today_3_": "Send fail",
-      "today_4_": "Receive success",
-      "today_5_": "Receive fail",
-      "today_6_": "Receive success rate",
-      "today_7_": "Send today",
-      "today_8_": "Reject today"
+      "today_1_": "Процент успешных отправок",
+      "today_2_": "Успешно отправлено",
+      "today_3_": "Неудачные отправки",
+      "today_4_": "Успешно получено",
+      "today_5_": "Неудачные получения",
+      "today_6_": "Процент успешных получений",
+      "today_7_": "Отправлено сегодня",
+      "today_8_": "Отклонено сегодня"
     },
     "Email_": {
-      "index_1_": "Email Address",
-      "index_2_": "Sender",
-      "index_3_": "Theme",
-      "index_4_": "Time",
-      "index_5_": "View",
-      "index_6_": "Spam",
-      "index_7_": "Check Mail [{0}]",
-      "index_8_": "Mark spam",
-      "index_9_": "Are you sure you want to mark this message as spam?",
-      "index_10_": "Unmark"
+      "index_1_": "Электронный адрес",
+      "index_2_": "Отправитель",
+      "index_3_": "Тема",
+      "index_4_": "Время",
+      "index_5_": "Просмотреть",
+      "index_6_": "Спам",
+      "index_7_": "Проверить письмо [{0}]",
+      "index_8_": "Отметить как спам",
+      "index_9_": "Вы уверены, что хотите отметить это сообщение как спам?",
+      "index_10_": "Снять отметку"
     }
   }
 }
