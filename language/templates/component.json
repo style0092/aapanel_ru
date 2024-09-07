@@ -1,0 +1,17 @@
+{
+  "Component_": {
+    "UploadFile_": {
+      "index_1_": "Click or drag the file to the area",
+      "index_2_": "Only support {0} file format import",
+      "index_3_": "File name",
+      "index_4_": "Size",
+      "index_5_": "Status",
+      "index_6_": "Select file",
+      "index_7_": "The file [{0}] size cannot exceed {1}M",
+      "index_8_": "Waiting for upload",
+      "index_9_": "Upload success",
+      "index_10_": "Please select the file to upload"
+    },
+    "TablePageText_": { "index_1_": "Home", "index_2_": "Prev", "index_3_": "Next", "index_4_": "Page {0}" }
+  }
+}
